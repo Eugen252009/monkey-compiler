@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/eugen252009/compiler-monkey/lexer"
-	"github.com/eugen252009/compiler-monkey/parser"
+	"github.com/eugen252009/monkey-interpreter/lexer"
+	"github.com/eugen252009/monkey-interpreter/parser"
 )
 
 const PROMPT = ">>"
